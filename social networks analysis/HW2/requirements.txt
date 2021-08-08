@@ -4,4 +4,4 @@ import datetime as dt (for json files, edit the dates)
 import os (open dict)
 
 
-merge all the tweets folders and rename as "Hebrwe_tweets"
+merge all the tweets folders and rename as "Hebrew_tweets"
