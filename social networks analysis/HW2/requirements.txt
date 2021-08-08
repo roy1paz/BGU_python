@@ -2,3 +2,6 @@ import itertools
 from random import random (for edge_selector_optimizer function)
 import datetime as dt (for json files, edit the dates)
 import os (open dict)
+
+
+merge all the tweets folders and rename as "Hebrwe_tweets"
